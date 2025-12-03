@@ -1,0 +1,2 @@
+# PREDICTING-BRAIN-STROKE-RISK-USING-PATIENT-HEALTH-AND-LIFESTYLE-DATA-THROUGH-MACHINE-LEARNING
+“This dissertation uses machine learning to predict brain stroke risk using clinical and lifestyle data from Mendeley. After preprocessing and handling class imbalance, multiple models were tested, with Random Forest performing best. The study highlights both the potential and limitations of ML in stroke prediction.
